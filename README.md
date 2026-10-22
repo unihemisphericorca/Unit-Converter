@@ -78,14 +78,14 @@ The screenshots below show the category/unit menus, calculator input, and conver
 
 <table>
   <tr>
-    <td align="center"><strong>Main converter</strong><br><img src="https://github.com/user-attachments/assets/32c4b0f9-f7df-4aeb-96b8-5e9aea6887c0" alt="Unit Converter main screen" width="260"></td>
-    <td align="center"><strong>Category menu</strong><br><img src="https://github.com/user-attachments/assets/420ee64e-42db-419c-a769-72864a93207f" alt="Unit category menu" width="260"></td>
+    <td align="center"><strong>User Interface</strong><br><img src="https://github.com/user-attachments/assets/32c4b0f9-f7df-4aeb-96b8-5e9aea6887c0" alt="Unit Converter main screen" width="260"></td>
+    <td align="center"><strong>Category Selction</strong><br><img src="https://github.com/user-attachments/assets/420ee64e-42db-419c-a769-72864a93207f" alt="Unit category menu" width="260"></td>
     <td align="center"><strong>Temperature units</strong><br><img src="https://github.com/user-attachments/assets/ea1aee27-f20f-442c-82d8-45b2e84ab048" alt="Temperature unit menu" width="260"></td>
   </tr>
   <tr>
-    <td align="center"><strong>Numeric keypad</strong><br><img src="https://github.com/user-attachments/assets/10ace1f5-3014-45bf-8d28-f2f4d35ca9cf" alt="Numeric keypad" width="260"></td>
-    <td align="center"><strong>Input controls</strong><br><img src="https://github.com/user-attachments/assets/15b281a5-ca7b-4c6f-aaa0-8b9de9851eca" alt="Input and conversion controls" width="260"></td>
-    <td align="center"><strong>Conversion result</strong><br><img src="https://github.com/user-attachments/assets/43405b17-9ea3-40aa-87f1-1c07eb2d663f" alt="Conversion result screen" width="260"></td>
+    <td align="center"><strong>Weight Unit</strong><br><img src="https://github.com/user-attachments/assets/10ace1f5-3014-45bf-8d28-f2f4d35ca9cf" alt="Numeric keypad" width="260"></td>
+    <td align="center"><strong>Distance Unit</strong><br><img src="https://github.com/user-attachments/assets/15b281a5-ca7b-4c6f-aaa0-8b9de9851eca" alt="Input and conversion controls" width="260"></td>
+    <td align="center"><strong>Constraints</strong><br><img src="https://github.com/user-attachments/assets/43405b17-9ea3-40aa-87f1-1c07eb2d663f" alt="Conversion result screen" width="260"></td>
   </tr>
 </table>
 
